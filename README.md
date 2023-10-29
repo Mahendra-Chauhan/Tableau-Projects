@@ -1,2 +1,2 @@
 # Tableau-Projects
-Perfect Pivot Visualization
+Perfect Pivot Visualization & Special Bar Graphs
