@@ -1,2 +1,2 @@
 # Tableau-Projects
-Perfect Pivot Visulization
+Perfect Pivot Visualization
